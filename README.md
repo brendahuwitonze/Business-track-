@@ -1,2 +1,2 @@
-# Business-track-
-This project  will be tracking the flow of items in the business. It will be recording the items that enter into the business and how the flow out from the business
+# Car-Business-tracking
+This is a business of selling cars. This project will be recording the added cars and also delete the sold cars from the database so that it will be easy for the onwers to track and know the flow of their businesses 
