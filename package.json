@@ -1,0 +1,20 @@
+{
+  "name": "car-business-tracking",
+  "version": "1.0.0",
+  "description": "This is a business of selling cars. This project will be recording the added cars and also delete the sold cars from the database so that it will be easy for the onwers to track and know the flow of their businesses",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "deve": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Brendah",
+  "license": "MIT",
+  "dependencies": {
+    "deve": "^0.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
